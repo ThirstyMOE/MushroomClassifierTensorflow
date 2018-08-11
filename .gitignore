@@ -273,6 +273,9 @@ venv.bak/
 
 .mypy_cache/
 
+
+.idea
+
 © 2018 GitHub, Inc.
 Terms
 Privacy
